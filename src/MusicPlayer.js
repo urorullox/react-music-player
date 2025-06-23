@@ -49,7 +49,7 @@ const initialSongs = [
     title: "Sanctuary",
     artist: "Joji",
     cover: "https://via.placeholder.com/150",
-    src: "https://example.com/sanctuary.mp3"
+    src: "Joji - Sanctuary (Official Video).mp3"
   },
   {
     title: "Hope Is a Dangerous Thing...",
