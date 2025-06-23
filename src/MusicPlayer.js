@@ -124,7 +124,11 @@ export default function MusicPlayer() {
                 <p style={{ fontSize: '12px', opacity: 0.7 }}>{song.artist}</p>
               </div>
             </div>
-            {currentSong === i ? <CheckCircle2 style={{ color: '#34D399' }} /> : <MoreVertical />}
+            {currentSong === i && playing ? (
+              <span className="text-green-400 font-semibold text-sm">Now Playing</span>
+            ) : (
+              <span className="text-white/60 font-mono text-lg">j</span>
+            )}
           </div>
         ))}
       </div>
