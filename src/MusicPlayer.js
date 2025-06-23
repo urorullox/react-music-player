@@ -7,43 +7,43 @@ const initialSongs = [
     title: "Where's My Love (Acoustic)",
     artist: "SYML",
     cover: "https://via.placeholder.com/150",
-    src: "https://example.com/wheres-my-love.mp3"
+    src: "SYML - Where's My Love (Acoustic).mp3"
   },
   {
     title: "Saturn",
     artist: "Sleeping At Last",
     cover: "https://via.placeholder.com/150",
-    src: "https://example.com/saturn.mp3"
+    src: "Sleeping At Last - Saturn (Official Music Video).mp3"
   },
   {
     title: "Apocalypse",
     artist: "Cigarettes After Sex",
     cover: "https://via.placeholder.com/150",
-    src: "https://example.com/apocalypse.mp3"
+    src: "hApocalypse - Cigarettes After Sex.mp3"
   },
   {
     title: "Anchor",
     artist: "Novo Amor",
     cover: "https://via.placeholder.com/150",
-    src: "https://example.com/anchor.mp3"
+    src: "Novo Amor - Anchor (official video).mp3"
   },
   {
     title: "Everything I Wanted",
     artist: "Billie Eilish",
     cover: "https://via.placeholder.com/150",
-    src: "https://example.com/everything-i-wanted.mp3"
+    src: "Billie Eilish - everything i wanted (Official Music Video).mp3"
   },
   {
     title: "River Flows in You",
     artist: "Yiruma",
     cover: "https://via.placeholder.com/150",
-    src: "https://example.com/river-flows-in-you.mp3"
+    src: "Yiruma, (이루마) - River Flows in You.mp3"
   },
   {
     title: "Holocene",
     artist: "Bon Iver",
     cover: "https://via.placeholder.com/150",
-    src: "https://example.com/holocene.mp3"
+    src: "Bon Iver - Holocene - Official Video.mp3"
   },
   {
     title: "Sanctuary",
@@ -55,13 +55,13 @@ const initialSongs = [
     title: "Hope Is a Dangerous Thing...",
     artist: "Lana Del Rey",
     cover: "https://via.placeholder.com/150",
-    src: "https://example.com/hope-is-dangerous.mp3"
+    src: "hope is a dangerous thing for a woman like me to have - but i have it (Official Audio).mp3"
   },
   {
     title: "Sæglópur",
     artist: "Sigur Rós",
     cover: "https://via.placeholder.com/150",
-    src: "https://example.com/saeglopur.mp3"
+    src: "Sæglópur  [Official Video - Full Version - 4K].mp3"
   }
 ];
 
