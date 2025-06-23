@@ -46,7 +46,7 @@ const initialSongs = [
     src: "Bon Iver - Holocene - Official Video.mp3"
   },
   {
-    title: "Sanctuary",
+    title: "Sanctuary (for sipa)",
     artist: "Joji",
     cover: "https://via.placeholder.com/150",
     src: "Joji - Sanctuary (Official Video).mp3"
