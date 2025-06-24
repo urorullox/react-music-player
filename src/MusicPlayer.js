@@ -19,7 +19,7 @@ const initialSongs = [
     title: "Apocalypse",
     artist: "Cigarettes After Sex",
     cover: "https://via.placeholder.com/150",
-    src: "hApocalypse - Cigarettes After Sex.mp3"
+    src: "Apocalypse - Cigarettes After Sex.mp3"
   },
   {
     title: "Anchor",
@@ -46,7 +46,7 @@ const initialSongs = [
     src: "Bon Iver - Holocene - Official Video.mp3"
   },
   {
-    title: "Sanctuary (for sipa)",
+    title: "Sanctuary sipasip",
     artist: "Joji",
     cover: "https://via.placeholder.com/150",
     src: "Joji - Sanctuary (Official Video).mp3"
